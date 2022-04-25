@@ -8,7 +8,7 @@
 #import <Zoo/ZooCacheManager.h>
 
 
-@interface ZooCacheManager (General)
+@interface ZooCacheManager (UI)
 
 
 @end
