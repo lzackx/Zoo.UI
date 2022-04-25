@@ -302,11 +302,13 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-Zoo.UI_Example/Pods-Zoo.UI_Example-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/Zoo.UI/Zoo_UI.framework",
+				"${BUILT_PRODUCTS_DIR}/Zoo/Zoo.framework",
+				"${BUILT_PRODUCTS_DIR}/Zoo.UI/ZooUI.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Zoo_UI.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Zoo.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ZooUI.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;

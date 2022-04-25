@@ -7,12 +7,20 @@
 //
 
 #import "ZOOAppDelegate.h"
+#import <Zoo/ZooManager.h>
+#import <ZooUI/ZooManager+UI.h>
+#import <ZooUI/ZooCacheManager+UI.h>
 
 @implementation ZOOAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    
+    [[ZooManager shareInstance] addUIPlugins];
+    [[ZooManager shareInstance] install];
+    
+    
     return YES;
 }
 
