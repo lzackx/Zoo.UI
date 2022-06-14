@@ -5,8 +5,8 @@
 //  Created by lZackx on 2022/4/14.
 
 #import "ZooViewAlignView.h"
-#import "ZooDefine.h"
-#import "ZooVisualInfoWindow.h"
+#import <Zoo/ZooDefine.h>
+#import <Zoo/ZooVisualInfoWindow.h>
 
 #define ALIGN_COLOR @"#FF0000"
 

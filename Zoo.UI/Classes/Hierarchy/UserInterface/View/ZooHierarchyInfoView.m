@@ -1,7 +1,7 @@
 #import "ZooHierarchyInfoView.h"
 #import "UIColor+ZooHierarchy.h"
-#import "UIView+Zoo.h"
-#import "ZooDefine.h"
+#import <Zoo/UIView+Zoo.h>
+#import <Zoo/ZooDefine.h>
 #import "NSObject+ZooHierarchy.h"
 #import "ZooHierarchyFormatterTool.h"
 

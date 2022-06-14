@@ -5,8 +5,8 @@
 //  Created by lZackx on 2022/4/14.
 
 #import "ZooMetricsViewController.h"
-#import "ZooCellSwitch.h"
-#import "ZooDefine.h"
+#import <Zoo/ZooCellSwitch.h>
+#import <Zoo/ZooDefine.h>
 #import "ZooViewMetricsConfig.h"
 
 @interface ZooMetricsViewController () <ZooSwitchViewDelegate>

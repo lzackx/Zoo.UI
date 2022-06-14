@@ -6,7 +6,7 @@
 
 #import "ZooColorPickInfoWindow.h"
 #import "ZooColorPickInfoView.h"
-#import "ZooDefine.h"
+#import <Zoo/ZooDefine.h>
 
 @interface ZooColorPickInfoController: UIViewController
 

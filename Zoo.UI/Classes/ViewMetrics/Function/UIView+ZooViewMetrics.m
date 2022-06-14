@@ -6,9 +6,9 @@
 
 #import "UIView+ZooViewMetrics.h"
 #import "ZooViewMetricsConfig.h"
-#import "NSObject+Zoo.h"
+#import <Zoo/NSObject+Zoo.h>
 #import <objc/runtime.h>
-#import "ZooDefine.h"
+#import <Zoo/ZooDefine.h>
 
 
 @interface UIView ()

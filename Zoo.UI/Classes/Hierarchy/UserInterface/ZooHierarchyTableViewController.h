@@ -4,7 +4,7 @@
 //
 //  Created by lZackx on 2022/4/14.
 
-#import "ZooBaseViewController.h"
+#import <Zoo/ZooBaseViewController.h>
 
 @class ZooHierarchyCategoryModel;
 

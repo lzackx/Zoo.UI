@@ -11,8 +11,8 @@
 #import "ZooHierarchyCategoryModel.h"
 #import "NSObject+ZooHierarchy.h"
 #import "ZooHierarchyCellModel.h"
-#import "UIView+Zoo.h"
-#import "ZooDefine.h"
+#import <Zoo/UIView+Zoo.h>
+#import <Zoo/ZooDefine.h>
 
 @interface ZooHierarchyDetailViewController ()
 

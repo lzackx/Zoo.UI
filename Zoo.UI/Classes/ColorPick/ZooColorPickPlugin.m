@@ -6,7 +6,7 @@
 
 #import "ZooColorPickPlugin.h"
 #import "ZooColorPickWindow.h"
-#import "ZooHomeWindow.h"
+#import <Zoo/ZooHomeWindow.h>
 #import "ZooColorPickInfoWindow.h"
 
 @implementation ZooColorPickPlugin

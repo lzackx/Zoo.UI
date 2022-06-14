@@ -5,7 +5,7 @@
 //  Created by lZackx on 2022/4/14.
 
 #import "ZooHierarchyHeaderView.h"
-#import "UIView+Zoo.h"
+#import <Zoo/UIView+Zoo.h>
 
 @interface ZooHierarchyHeaderView ()
 

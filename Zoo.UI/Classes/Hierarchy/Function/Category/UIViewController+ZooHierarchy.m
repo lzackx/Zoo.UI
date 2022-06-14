@@ -5,7 +5,7 @@
 //  Created by lZackx on 2022/4/14.
 
 #import "UIViewController+ZooHierarchy.h"
-#import "ZooDefine.h"
+#import <Zoo/ZooDefine.h>
 
 @implementation UIViewController (ZooHierarchy)
 

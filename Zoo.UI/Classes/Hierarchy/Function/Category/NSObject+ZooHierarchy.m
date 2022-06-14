@@ -12,8 +12,8 @@
 #import "UIColor+ZooHierarchy.h"
 #import "ZooEnumDescription.h"
 #import "ZooHierarchyHelper.h"
-#import "UIColor+Zoo.h"
-#import "ZooDefine.h"
+#import <Zoo/UIColor+Zoo.h>
+#import <Zoo/ZooDefine.h>
 
 NSNotificationName const ZooHierarchyChangeNotificationName = @"ZooHierarchyChangeNotificationName";
 

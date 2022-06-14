@@ -6,7 +6,7 @@
 
 #import "ZooHierarchyTitleCell.h"
 #import "ZooHierarchyCellModel.h"
-#import "ZooDefine.h"
+#import <Zoo/ZooDefine.h>
 
 @interface ZooHierarchyTitleCell ()
 

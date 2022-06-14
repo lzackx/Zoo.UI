@@ -6,7 +6,7 @@
 
 #import "ZooViewAlignPlugin.h"
 #import "ZooViewAlignManager.h"
-#import "ZooHomeWindow.h"
+#import <Zoo/ZooHomeWindow.h>
 
 
 @implementation ZooViewAlignPlugin

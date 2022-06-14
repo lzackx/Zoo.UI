@@ -5,7 +5,7 @@
 //  Created by lZackx on 2022/4/14.
 
 #import "UIColor+ZooHierarchy.h"
-#import "UIColor+Zoo.h"
+#import <Zoo/UIColor+Zoo.h>
 
 @implementation UIColor (ZooHierarchy)
 

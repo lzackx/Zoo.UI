@@ -6,7 +6,7 @@
 
 #import "ZooViewCheckManager.h"
 #import "ZooViewCheckView.h"
-#import "ZooDefine.h"
+#import <Zoo/ZooDefine.h>
 
 
 @interface ZooViewCheckManager()

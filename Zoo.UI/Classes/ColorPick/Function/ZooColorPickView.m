@@ -5,9 +5,9 @@
 //  Created by lZackx on 2022/4/14.
 
 #import "ZooColorPickView.h"
-#import "UIView+Zoo.h"
-#import "UIImage+Zoo.h"
-#import "UIColor+Zoo.h"
+#import <Zoo/UIView+Zoo.h>
+#import <Zoo/UIImage+Zoo.h>
+#import <Zoo/UIColor+Zoo.h>
 
 @interface ZooColorPickView()
 

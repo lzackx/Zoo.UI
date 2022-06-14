@@ -6,7 +6,7 @@
 
 #import "ZooViewCheckPlugin.h"
 #import "ZooViewCheckManager.h"
-#import "ZooHomeWindow.h"
+#import <Zoo/ZooHomeWindow.h>
 
 @implementation ZooViewCheckPlugin
 

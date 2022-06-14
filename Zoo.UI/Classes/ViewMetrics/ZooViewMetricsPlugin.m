@@ -6,7 +6,7 @@
 
 #import "ZooViewMetricsPlugin.h"
 #import "ZooMetricsViewController.h"
-#import "ZooHomeWindow.h"
+#import <Zoo/ZooHomeWindow.h>
 
 @implementation ZooViewMetricsPlugin
 

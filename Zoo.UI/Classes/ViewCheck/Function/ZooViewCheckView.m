@@ -5,9 +5,9 @@
 //  Created by lZackx on 2022/4/14.
 
 #import "ZooViewCheckView.h"
-#import "ZooDefine.h"
-#import "Zooi18NUtil.h"
-#import "ZooVisualInfoWindow.h"
+#import <Zoo/ZooDefine.h>
+#import <Zoo/Zooi18NUtil.h>
+#import <Zoo/ZooVisualInfoWindow.h>
 #import <objc/runtime.h>
 
 

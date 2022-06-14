@@ -12,8 +12,8 @@
 #import "ZooHierarchyInfoView.h"
 #import "ZooHierarchyHelper.h"
 #import "ZooHierarchyWindow.h"
-#import "UIView+Zoo.h"
-#import "ZooDefine.h"
+#import <Zoo/UIView+Zoo.h>
+#import <Zoo/ZooDefine.h>
 
 @interface ZooHierarchyViewController ()<ZooHierarchyViewDelegate, ZooHierarchyInfoViewDelegate>
 

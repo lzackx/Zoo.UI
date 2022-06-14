@@ -6,7 +6,7 @@
 
 #import "ZooHierarchyWindow.h"
 #import "ZooHierarchyViewController.h"
-#import "ZooDefine.h"
+#import <Zoo/ZooDefine.h>
 
 @interface ZooHierarchyWindow ()
 

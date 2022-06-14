@@ -7,7 +7,7 @@
 #import "ZooHierarchyPlugin.h"
 #import "ZooHierarchyWindow.h"
 #import "ZooHierarchyHelper.h"
-#import "ZooHomeWindow.h"
+#import <Zoo/ZooHomeWindow.h>
 
 
 @implementation ZooHierarchyPlugin

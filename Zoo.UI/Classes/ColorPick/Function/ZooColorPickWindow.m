@@ -5,13 +5,13 @@
 //  Created by lZackx on 2022/4/14.
 
 #import "ZooColorPickWindow.h"
-#import "UIView+Zoo.h"
-#import "ZooDefine.h"
+#import <Zoo/UIView+Zoo.h>
+#import <Zoo/ZooDefine.h>
 #import "ZooColorPickView.h"
-#import "UIImage+Zoo.h"
-#import "ZooDefine.h"
-#import "UIColor+Zoo.h"
-#import "ZooDefine.h"
+#import <Zoo/UIImage+Zoo.h>
+#import <Zoo/ZooDefine.h>
+#import <Zoo/UIColor+Zoo.h>
+#import <Zoo/ZooDefine.h>
 #import "ZooColorPickInfoWindow.h"
 #import "ZooColorPickMagnifyLayer.h"
 

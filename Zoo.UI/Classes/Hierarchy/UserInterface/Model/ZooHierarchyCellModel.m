@@ -8,7 +8,7 @@
 #import "ZooHierarchyDetailTitleCell.h"
 #import "ZooHierarchySelectorCell.h"
 #import "ZooHierarchySwitchCell.h"
-#import "ZooDefine.h"
+#import <Zoo/ZooDefine.h>
 
 @implementation ZooHierarchyCellModel
 

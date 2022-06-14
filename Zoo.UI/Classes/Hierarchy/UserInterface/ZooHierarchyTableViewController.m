@@ -10,7 +10,7 @@
 #import "ZooHierarchySwitchCell.h"
 #import "ZooHierarchyHeaderView.h"
 #import "ZooHierarchyCellModel.h"
-#import "ZooDefine.h"
+#import <Zoo/ZooDefine.h>
 
 @interface ZooHierarchyTableViewController ()
 
